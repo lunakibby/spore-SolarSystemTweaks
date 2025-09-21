@@ -1,5 +1,5 @@
 # Solar-System Tweaks
-Solar-System Tweaks is a mod that changes how the galaxy generates new systems to make a more realistic distribution that feels like Vanilla!
+Solar-System Tweaks is a SPORE™ mod that changes how the galaxy generates new systems. It creates a more realistic distribution that feels just like Vanilla!
 
 ### Vanilla+ Option
 - Systems can have a planet count between 1 & 11
