@@ -1,0 +1,70 @@
+# Solar System Tweaks - v1.0
+Requires a Galaxy Reset for best experience
+
+Spore's Vanilla Alien Distribution
+# Changes
+- Made Gas Giants less likely to have rings (33%)
+- Made Gas Giants more likely to have moons (94%)
+- Made Terrestrial Planets more likely to have moons (15%)
+- Made Terrestrial Planets more likely to have rings (22%)
+- Increased maximum planet count to 11
+- Increased spawn weight of "Asteroid Belts" from 300 to 500
+- Decreased spawn weight of "Gas Giants" from 300 to 260
+- Decreased spawn weight of "T1 Planets" from 300 to 180
+- Increased spawn weight of "T2 Planets" from 3 to 8
+- Decreased spawn weight of "Easter Egg / Art Worlds" from 5 to 3
+
+# Special Versions
+*Could cause narrative dissonance with adventures
+These versions contain all of the above changes unless otherwise noted
+
+### Rare Alien Distribution
+Turns out the radio signals we sent out were never answered, because life is exceptionally rare.
+- Decreased spawn weight of "T1 Planets" from 300 to 20
+- Decreased spawn weight of "T2 Planets" from 3 to 2
+- Decreased spawn weight of "Tribals" from 10 to 1
+- Decreased spawn weight of "Civils" from 10 to 1
+- Decreased spawn weight of "Empires" from 50 to 7
+
+### Cramped Alien Distribution
+You were one of the last to evolve, resources are limited, and life is everywhere!
+- Increased spawn weight of "T1 Planets" from 300 to 450
+- Increased spawn weight of "T2 Planets" from 3 to 97
+- Increased spawn weight of "T3 Planets" from 1 to 3
+- Increased spawn weight of "Tribals" from 10 to 15
+- Increased spawn weight of "Civils" from 10 to 25
+- Increased spawn weight of "Empires" from 50 to 85
+- Decreased spawn weight of "Creature Planets" from 100 to 56
+- Decreased Grox System count from 2400 to 1066
+- Decreased Grox-Core radius from 100 to 25
+- Increased Grox-Sprawl from 105 to 200
+
+### Progenitor Alien Distribution
+You are the precursor species, the first to evolve to the galactic stage (if you ignore the Grox)!
+- Increased spawn weight of "Barren Planets" from 1000 to 1444
+- Decreased spawn weight of "T1 Planets" from 300 to 20
+- Decreased spawn weight of "T2 Planets" from 3 to 2
+- Increased spawn weight of "Tribals" from 10 to 24
+- Increased spawn weight of "Civils" from 10 to 14
+- Decreased spawn weight of "Empires" from 50 to 1
+- Increased spawn weight of "Creature Planets" from 100 to 350
+- Decreased Grox System count from 2400 to 320
+- Decreased Grox-Core radius from 100 to 25
+- Decreased Grox-Sprawl from 105 to 50
+
+### Minimal Grox
+- Decreased Grox System count from 2400 to 320
+- Decreased Grox-Core radius from 100 to 25
+- Decreased Grox-Sprawl from 105 to 50
+
+### Even More Minimal Grox
+- Decreased Grox System count from 2400 to 92
+- Decreased Grox-Core radius from 100 to 15
+- Decreased Grox-Sprawl from 105 to 10
+
+### Only Art
+Art, Story & Easter Egg worlds dominate the galaxy! (This is incredibly OP)
+- Decreased spawn weight of "Barren Worlds" from 1000 to 400
+- Increased spawn weight of "Easter Egg / Art Worlds" from 5 to 850
+
+Please note that the Sparse, Cramped & Progenitor variations are not as drastic of a change as I wanted them to be, will investigate further
