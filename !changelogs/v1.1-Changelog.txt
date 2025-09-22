@@ -1,0 +1,11 @@
+# Solar System Tweaks - v1.1
+# Additions
+- Added Basic-NG-AD (Vanilla+ - No Grox) Configuration
+- Added Cramped-EX-AD (Cramped - Extreme) Configuration
+- Added Progenitor-NE-AD (Progenitor - Only Grox) Configuration
+- Added Progenitor-NE-NG-AD (Progenitor - Nothin' At All) Configuration
+
+# Changes
+- Progenitor Configurations work properly now, now makes Empires Exceedingly Rare! (Or Impossible with NE or NE-NG files!)
+- Cramped Configurations work properly now, now makes Empires Common! (Or Extremely common with the EX file!)
+- Sparse Configurations work properly now, now makes Empires Rare!
