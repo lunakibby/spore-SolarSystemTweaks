@@ -29,7 +29,7 @@ This mod includes other replacement packages that alter the experience from a va
 - Lore: Your species' evolution took so long that many species beat you to it!
 
 ### Special: Cramped Galaxy - Extra
-- This makes your game spawn more aliens in general, making space fairly cramped
+- This makes your game spawn more aliens in general, making space exceptionally cramped
 - Lore: Your species' evolution took such an extreme amount of time that you are now in a galaxy in constant contention for resources!
 
 ### Special: Sparse Galaxy
