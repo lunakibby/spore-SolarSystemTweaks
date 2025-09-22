@@ -47,5 +47,3 @@ This mod includes other replacement packages that alter the experience from a va
 ### Special: Progenitor - Nothin' At All
 - This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
 - Lore: Your species was first to evolve on the galactic stage, you will shape history!
-
-Please note that the Sparse, Cramped & Progenitor variations are not as drastic of a change as I wanted them to be, will investigate further
