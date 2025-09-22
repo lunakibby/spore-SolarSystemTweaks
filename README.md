@@ -41,9 +41,9 @@ This mod includes other replacement packages that alter the experience from a va
 - Lore: Your species' evolution was an early contender on the galactic stage, you are a precursor species!
 
 ### Special: Progenitor - Only Grox
-- This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
+- This eliminates all non-grox species from the galaxy, leaving just you & the grox at stage-start! (This is a very difficult start)
 - Lore: Your species' evolution was penultimate to only one, The Grox!
 
 ### Special: Progenitor - Nothin' At All
-- This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
+- This eliminates all species from the galaxy, leaving just you! (This is a ridiculously hard start)
 - Lore: Your species was first to evolve on the galactic stage, you will shape history!
