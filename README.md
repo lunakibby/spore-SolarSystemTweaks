@@ -26,19 +26,19 @@ This mod includes other replacement packages that alter the experience from a va
 
 ### Special: Cramped Galaxy
 - This makes your game spawn more aliens in general, making space fairly cramped
-- Lore: Your species evolution took so long that many species beat you to it!
+- Lore: Your species' evolution took so long that many species beat you to it!
 
 ### Special: Cramped Galaxy - Extra
 - This makes your game spawn more aliens in general, making space fairly cramped
-- Lore: Your species evolution took such an extreme amount of time that you are now in a galaxy in constant contention for resources!
+- Lore: Your species' evolution took such an extreme amount of time that you are now in a galaxy in constant contention for resources!
 
 ### Special: Sparse Galaxy
 - This makes your game spawn less aliens in general, giving empires more breathing room
-- Lore: Your species evolution was rather quick, managing to evolve before most other species could, allowing you to shape galactic history!
+- Lore: Your species' evolution was rather quick, managing to evolve before most other species could, allowing you to shape galactic history!
 
 ### Special: Progenitor
 - This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
-- Lore: Your species evolution was an early contender on the galactic stage, you are a precursor species!
+- Lore: Your species' evolution was an early contender on the galactic stage, you are a precursor species!
 
 ### Special: Progenitor - Only Grox
 - This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
