@@ -42,7 +42,7 @@ This mod includes other replacement packages that alter the experience from a va
 
 ### Special: Progenitor - Only Grox
 - This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
-- Lore: Your species evolution was penultimate to only one, The Grox!
+- Lore: Your species' evolution was penultimate to only one, The Grox!
 
 ### Special: Progenitor - Nothin' At All
 - This dramatically reduces the games ability to spawn alien empires to almost never spawn spacefaring species, you get to watch idle as the other species are still tribal or have no interest in space! (This is a very difficult start)
